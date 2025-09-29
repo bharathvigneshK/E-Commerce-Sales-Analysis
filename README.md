@@ -10,11 +10,11 @@ The goal is to gain actionable insights through data cleaning, exploration, and 
 
 E-Commerce-Sales-Analysis/
 ├── Scripts/
-│ └── main.py #Main Data Analysis
+│ └── main.py # Main analysis script
 ├── Dataset/
-│ └── sales_data.csv #Sales Dataset
-├── README.md #Project Documentation
-└── LICENSE #Project License
+│ └── sales_data.csv # Sales dataset
+├── README.md # Project documentation
+└── LICENSE # Project license (MIT)
 
 ---
 
@@ -68,3 +68,7 @@ Contains:
   Unit Price
   Customer ID
   Country
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
